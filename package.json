@@ -1,0 +1,23 @@
+{
+  "name": "breakout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjacobson7/breakout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjacobson7/breakout/issues"
+  },
+  "homepage": "https://github.com/mjacobson7/breakout#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
